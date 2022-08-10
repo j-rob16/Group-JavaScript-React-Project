@@ -177,7 +177,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - James Robbins
+James Robbins
 
 Project Link: [Click Here][ProjectLink]
 

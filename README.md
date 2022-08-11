@@ -65,14 +65,8 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This project was developed over 7 days as part of the Professional Software Development course with Codeclan. It was built with Object Oriented Python, using Test Driven Development.
-It was built under certain conditions, set by the course;
-<br>
-Project must be built using only:
-* HTML / CSS
-* Python
-* Flask
-* PostgreSQL and the psycopg
+This project was developed over 7 days as part of the Professional Software Development course with Codeclan. It was built as a group with a MERN stack, using Test Driven Development.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,11 +76,14 @@ Project must be built using only:
 
 The following Languages, Frameworks & Libraries were used to build this project.
 
-* [![Python][Python-pic]][Python-url]
-* [![Flask][Flask-pic]][Flask-url]
-* [![PostgreSQL][Postgres]][Postgres-url]
+* [![JavaScript][JavaScript-pic]][JavaScript-url]
+* [![MongoDB][MongoDB-pic]][MongoDB-url]
+* [![Express.js][Express-pic]][Express-url]
+* [![React.js][React-pic]][React-url]
+* [![Node.js][Node-pic]][Node-url]
 * [![HTML5][HTML5-pic]][HTML5-url]
 * [![CSS3][CSS3-pic]][CSS3-url]
+* [![chart.js][chart.js-pic]][chart.js-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,12 +224,16 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [CSS3-pic]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[chart.js-pic]: https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white
+[chart.js-url]: https://www.chartjs.org/
 [Express-pic]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express-url]: https://expressjs.com/
 [Flask-pic]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/
 [HTML5-pic]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[JavaScript-pic]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[JavaScript-url]: https://www.javascript.com/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
@@ -249,7 +250,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Postgres-url]: https://www.postgresql.org
 [Python-pic]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-pic]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/

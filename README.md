@@ -65,7 +65,13 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This project was developed over 7 days as part of the Professional Software Development course with Codeclan. It was built as a group with a MERN stack, using Test Driven Development.
+This project was developed over 7 days as part of the Professional Software Development course with Codeclan. It was built as a group with a MERN stack, using Test Driven Development. 
+The concept for the project was to develop an educational website/app for the BBC, to educate teenagers (11-15yrs) about the solar system.
+The application pulls in data about the solar system from https://api.le-systeme-solaire.net/en/. The data from this API is used as search terms to pull in data and pictures from the NASA api simultaneously. 
+The application currently contains three pages. 
+- The first page displays an info-graphic about the planets in our solar system.
+- The second page contains a playable quiz. The answers given and score are saved to the database.
+- The third page utilises data from the api to construct some educational charts with the chart.js library. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -107,7 +113,7 @@ In order to run the product, npm must be installed on your machine in order to d
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/your_username_/Group-JavaScript-React-Project.git
    ```
 2. Install NPM packages
    ```sh
@@ -132,10 +138,12 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Editable Item Class
-- [x] Add Editable Vendor Class
-- [ ] Add price to transaction rather than item
-- [ ] Update current CSS
+- [x] Create infographic to display planetary information
+- [ ] Expand infographic to contain moons & satellites
+- [x] Add Quiz section and save results to database
+- [ ] Update and Improve Quiz section
+- [x] Create graphs using the chart.js library
+- [ ] Expand the graphs to make them dynamic. Allow the user to select desired info
 
 
 <!-- See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues). -->
